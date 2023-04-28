@@ -5,7 +5,6 @@ This is a [progressive web app](https://developers.google.com/web/progressive-we
 
 
 
-[![Sort Visualizer Demo](http://img.youtube.com/vi/JFjvVmvC3pQ/0.jpg)](http://www.youtube.com/watch?v=JFjvVmvC3pQ 'Sort Visualizer Demo')
 
 ## Purpose
 
